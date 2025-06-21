@@ -3,7 +3,7 @@
 ## Author Declaration
 **Name:** Zankhana Savsani  
 **Project:** Smart Notes Application  
-**Date:** December 2024
+**Date:** June 2025
 
 ## Original Work Statement
 
@@ -95,4 +95,4 @@ This project represents my genuine understanding of modern web development and m
 ---
 
 **Signature:** Zankhana Savsani  
-**Date:** December 2024
+**Date:** June 2025
